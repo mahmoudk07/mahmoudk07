@@ -7,9 +7,6 @@
 
 - 📫 How to reach me **mahmoudkk177@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-khaled-522850238) 
 
