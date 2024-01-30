@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **AÏnterview**
 
+- 💬 Ask me about **Full Stack Development**
+
 - 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **mahmoudkk177@gmail.com**
